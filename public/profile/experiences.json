@@ -2,32 +2,33 @@
     "experiences": [
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "subtitle": "University of Ottawa",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Spearheaded the integration of **4** new product for the Department of Family Medicine.",
+                "Worked on improving existing projects and optimizing system efficiency significantly."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "01/2022 – Present"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "IT Specialist",
+            "subtitle": "University of Ottawa",
+            "workType": "Part-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Worked on comprehensive IT solutions for diverse projects, focusing on optimizing systems, enhancing security, and ensuring seamless functionality.",
+                "Collaborated closely with cross-functional teams to troubleshoot issues, provide technical support, and drive the implementation of innovative IT strategies."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "09/2023 – Present"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "University of Ottawa",
+            "workType": "University Project",
+            "workDescription": [
+                "Engineered a comprehensive Hospital Management Web Application employing Angular, Kotlin, and Spring Boot, enhancing patient tracking and streamlining hospital workflows.",
+                "Ensured data security and integrity through encryption protocols and meticulous testing, guaranteeing seamless user experiences across both projects."
+            ],
+            "dateText": "09/2023 – 12/2023"
         }
     ]
 }

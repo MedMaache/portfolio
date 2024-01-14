@@ -1,19 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Sep 2019 - Apr 2024",
+            "cardTitle": "Computer Engineering",
+            "cardSubtitle":"University of Ottawa, Ottawa",
+            "cardDetailedText": "",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": ""
             }
         },
         {
-            "title": "Apr 20XX",
+            "title": "Jun 2018",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Youssef Ibn Tachfin, Agadir",
+            "cardDetailedText": ""
         }
     ]
 }
