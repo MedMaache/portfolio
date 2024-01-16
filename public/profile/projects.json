@@ -19,6 +19,27 @@
                 "Portfolio",
                 "JavaScript"
             ]
+        },
+
+        {
+            "image" : "images/projects/car-rental.png",
+            "title": "Car Rental Web App",
+            "bodyText": "- A Car Rental Web App Made Using Reat Vite \n - Completely Responsive \n - User Account Registration",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MedMaache/car-rental-app"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://car-rental-app-gilt.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
         }
     ]
 }
